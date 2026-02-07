@@ -1,0 +1,72 @@
+{
+  "book_id": "modernist-european-gothic-past-future",
+  "title": "The House of Lost Mirrors",
+  "tagline": "A resonance detective must listen to the echoes of a fractured past to find a future stolen from a brother who is no longer himself.",
+  "target_words": 72513,
+  "actual_words": 72513,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Persistence of the Past",
+    "The Fragility of Identity",
+    "Atmospheric Haunting",
+    "The Search for Authenticity"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Silver-Unspooling Rain",
+      "words": 6592
+    },
+    {
+      "ch": 2,
+      "title": "A Grudging Dilution of Dark",
+      "words": 6592
+    },
+    {
+      "ch": 3,
+      "title": "The Door, The Mirror, The Hall",
+      "words": 6592
+    },
+    {
+      "ch": 4,
+      "title": "Suspended Crystalline Mist",
+      "words": 6592
+    },
+    {
+      "ch": 5,
+      "title": "The Silence With Intention",
+      "words": 6592
+    },
+    {
+      "ch": 6,
+      "title": "A Chord of Shattered Time",
+      "words": 6592
+    },
+    {
+      "ch": 7,
+      "title": "Born Into a World of Static",
+      "words": 6592
+    },
+    {
+      "ch": 8,
+      "title": "The Substance of Listening",
+      "words": 6592
+    },
+    {
+      "ch": 9,
+      "title": "The Language of Metallic Rain",
+      "words": 6592
+    },
+    {
+      "ch": 10,
+      "title": "The Ghost of a Coin",
+      "words": 6592
+    },
+    {
+      "ch": 11,
+      "title": "A Ledger of Simple Brutality",
+      "words": 6592
+    }
+  ]
+}
